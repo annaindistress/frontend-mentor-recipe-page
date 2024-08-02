@@ -1,0 +1,22 @@
+@import './fonts.css';
+@import './components/box-sizing.css';
+@import './components/sr-only.css';
+@import './components/page.css';
+@import './components/recipe.css';
+
+:root {
+  --font-sans: 'Outfit', Arial, Helvetica, sans-serif;
+  --font-serif: 'Young Serif', Georgia, 'Times New Roman', serif;
+
+  --color-white: #ffffff;
+
+  --color-rose-50: #fff7fb;
+  --color-rose-800: #7a284e;
+
+  --color-stone-100: #f3e5d7;
+  --color-stone-150: #e3ddd7;
+  --color-stone-600: #5f564d;
+  --color-stone-900: #312e2c;
+
+  --color-brown-800: #854632;
+}

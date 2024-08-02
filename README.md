@@ -11,12 +11,20 @@ This is a solution to the [recipe page challenge on Frontend Mentor](https://www
 
 ## Screenshot
 
+![Screenshot of desktop version](./screenshot.png)
+
 ## Links
 
 - [Solution URL](https://github.com/annaindistress/frontend-mentor-recipe-page)
 - [Live Site URL](https://annaindistress.github.io/frontend-mentor-recipe-page/)
 
 ## Built with
+
+- Semantic HTML5 markup
+- Mobile-first workflow
+- CSS custom properties
+- PostCSS
+- Vite
 
 ## Author
 
